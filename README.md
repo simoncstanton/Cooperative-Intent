@@ -21,8 +21,8 @@ These experiments are conducted in the context of concepts of cooperation, as ha
 ## Table of Contents
 
 ```
-Declaration of Originality										ii  
-Statement of Authority of Access								ii  
+Declaration of Originality ............................................. ii  
+Statement of Authority of Access ....................................... ii  
 Publications Related to this Research .................................. ii  
 Declaration of Code and Data Availability .............................. ii  
 Acknowledgements ....................................................... iii  
