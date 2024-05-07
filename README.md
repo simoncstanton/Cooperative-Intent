@@ -1,10 +1,10 @@
 # Cooperative-Intent
 ## An Exploration of Computational Learning in a Discrete Preference Space. 
 
-[Thesis](Cooperative-Intent_Thesis_Stanton_2023.pdf)
-Submitted 14th December 2023. 
-Awarded 20th March 2024.
-CC-BY.
+[thesis pdf save-as/](Cooperative-Intent_Thesis_Stanton_2023.pdf)  
+Submitted 14th December 2023.  
+Awarded 20th March 2024.  
+CC-BY.  
 
 
 ## Abstract
@@ -20,152 +20,152 @@ These experiments are conducted in the context of concepts of cooperation, as ha
 
 ## Table of Contents
 
-Declaration of Originality ............................................. ii
-Statement of Authority of Access ....................................... ii
-Publications Related to this Research .................................. ii
-Declaration of Code and Data Availability .............................. ii
-Acknowledgements ....................................................... iii
-Table of Contents ...................................................... iv
-List of Tables ......................................................... viii
-List of Figures ........................................................ xi
-List of Algorithms ..................................................... xiv
-Abstract ............................................................... xv
+Declaration of Originality ............................................. ii  
+Statement of Authority of Access ....................................... ii  
+Publications Related to this Research .................................. ii  
+Declaration of Code and Data Availability .............................. ii  
+Acknowledgements ....................................................... iii  
+Table of Contents ...................................................... iv  
+List of Tables ......................................................... viii  
+List of Figures ........................................................ xi  
+List of Algorithms ..................................................... xiv  
+Abstract ............................................................... xv  
 
-Chapter One: Introduction .............................................. 1
+Chapter One: Introduction .............................................. 1  
 
-1.1 AI Now: Bias, Risk and Aspiration .................................. 2
-1.1.1 Mechanism and Function ........................................... 5
-1.2 Autonomous Agents and Cooperation................................... 6
-1.2.1 Cooperative Intent ............................................... 9
-1.2.1.1 Reflection ..................................................... 11
-1.2.1.2 Intention Recognition .......................................... 11
-1.3 Research Scope...................................................... 12
-1.3.1 On-line .......................................................... 13
-1.3.2 State Information Visibility ..................................... 13
-1.3.3 Infinite Horizon ................................................. 14
-1.3.4 Agent / Environment Boundary ..................................... 15
-1.3.5 No ‘Talk’ ........................................................ 15
-1.4 Thesis Structure and Outline of Experiments ........................ 16
+1.1 AI Now: Bias, Risk and Aspiration .................................. 2  
+1.1.1 Mechanism and Function ........................................... 5  
+1.2 Autonomous Agents and Cooperation................................... 6  
+1.2.1 Cooperative Intent ............................................... 9  
+1.2.1.1 Reflection ..................................................... 11  
+1.2.1.2 Intention Recognition .......................................... 11  
+1.3 Research Scope...................................................... 12  
+1.3.1 On-line .......................................................... 13  
+1.3.2 State Information Visibility ..................................... 13  
+1.3.3 Infinite Horizon ................................................. 14  
+1.3.4 Agent / Environment Boundary ..................................... 15  
+1.3.5 No ‘Talk’ ........................................................ 15  
+1.4 Thesis Structure and Outline of Experiments ........................ 16  
 
-Chapter Two: Computing Cooperation ..................................... 18
+Chapter Two: Computing Cooperation ..................................... 18  
 
-2.1 Concepts of Cooperation ............................................ 18
-2.1.1 Definitions ...................................................... 19
-2.1.2 Cooperative Modalities in Evolutionary Science ................... 19
-2.1.2.1 Kin-selection .................................................. 20
-2.1.2.2 Reciprocal Altruism ............................................ 21
-2.1.2.3 Group-selection ................................................ 22
-2.1.2.4 Gene-level-selection ........................................... 23
-2.1.2.5 Institutional Cooperation ...................................... 23
-2.2 Computational Learning ............................................. 25
-2.2.1 Learning from a Dilemma .......................................... 27
-2.2.2 Imperfect Information Markov Games ............................... 28
-2.2.3 Practical Considerations for Adaptive Agents ..................... 29
-2.2.3.1 The Problem of Now ............................................. 29
-2.2.3.2 Algorithmic Generalisation ..................................... 30
-2.2.3.3 Discontinuities & Lock-In ...................................... 31
-2.2.4 Algorithm Groups ................................................. 32
-2.3 Computational Game Theory .......................................... 33
-2.3.1 Prisoner’s Dilemma ............................................... 35
-2.3.1.1 Axelrod’s Single-Model Tournament .............................. 36
-2.3.1.2 Related Work ................................................... 38
-2.3.2 Social Dilemmas .................................................. 42
-2.3.3 Taxonomies, Typologies, and Topologies ........................... 44
-2.3.3.1 A Typology of 2×2 Games ........................................ 45
-2.3.3.2 Brams’ Dynamic Game Theory ..................................... 46
-2.3.3.3 Preferential Taxonomies ........................................ 47
-2.3.3.4 A 2×2 Topology ................................................. 48
-2.3.3.5 Further Topological Treatments ................................. 50
-2.4 In Summary ......................................................... 52
+2.1 Concepts of Cooperation ............................................ 18  
+2.1.1 Definitions ...................................................... 19  
+2.1.2 Cooperative Modalities in Evolutionary Science ................... 19  
+2.1.2.1 Kin-selection .................................................. 20  
+2.1.2.2 Reciprocal Altruism ............................................ 21  
+2.1.2.3 Group-selection ................................................ 22  
+2.1.2.4 Gene-level-selection ........................................... 23  
+2.1.2.5 Institutional Cooperation ...................................... 23  
+2.2 Computational Learning ............................................. 25  
+2.2.1 Learning from a Dilemma .......................................... 27  
+2.2.2 Imperfect Information Markov Games ............................... 28  
+2.2.3 Practical Considerations for Adaptive Agents ..................... 29  
+2.2.3.1 The Problem of Now ............................................. 29  
+2.2.3.2 Algorithmic Generalisation ..................................... 30  
+2.2.3.3 Discontinuities & Lock-In ...................................... 31  
+2.2.4 Algorithm Groups ................................................. 32  
+2.3 Computational Game Theory .......................................... 33  
+2.3.1 Prisoner’s Dilemma ............................................... 35  
+2.3.1.1 Axelrod’s Single-Model Tournament .............................. 36  
+2.3.1.2 Related Work ................................................... 38  
+2.3.2 Social Dilemmas .................................................. 42  
+2.3.3 Taxonomies, Typologies, and Topologies ........................... 44  
+2.3.3.1 A Typology of 2×2 Games ........................................ 45  
+2.3.3.2 Brams’ Dynamic Game Theory ..................................... 46  
+2.3.3.3 Preferential Taxonomies ........................................ 47  
+2.3.3.4 A 2×2 Topology ................................................. 48  
+2.3.3.5 Further Topological Treatments ................................. 50  
+2.4 In Summary ......................................................... 52  
 
-Chapter Three: Robinson-Goforth Space .................................. 54
+Chapter Three: Robinson-Goforth Space .................................. 54  
 
-3.1 The Reduced RGS Graph, G. .......................................... 54
+3.1 The Reduced RGS Graph, G. .......................................... 54  
 
-Chapter Four: Multi-Model Tournaments .................................. 58
+Chapter Four: Multi-Model Tournaments .................................. 58  
 
-4.1 Multi-Model Tournament Experiment Type ............................. 60
-4.1.2 Algorithms ....................................................... 60
-4.1.2.1 Game-Theoretic.................................................. 60
-4.1.2.2 Binary Bandits ................................................. 61
-4.1.2.3 Foundational Reinforcement Learning (fRL) ...................... 63
-4.1.3 Evaluation Metrics ............................................... 63
-4.2 Results ............................................................ 65
-4.2.1 Match Pairing Validation ......................................... 66
-4.2.2 Two-Stage Round-Robin Tournament ................................. 66
-4.2.2.1 Game-Theoretic Round-Robin ..................................... 67
-4.2.2.2 Binary Bandit Round-Robin ...................................... 69
-4.2.2.3 Foundational RL Round-Robin .................................... 72
-4.2.2.4 Final Round-Robin .............................................. 74
-4.3 Discussion ......................................................... 77
+4.1 Multi-Model Tournament Experiment Type ............................. 60  
+4.1.2 Algorithms ....................................................... 60  
+4.1.2.1 Game-Theoretic.................................................. 60  
+4.1.2.2 Binary Bandits ................................................. 61  
+4.1.2.3 Foundational Reinforcement Learning (fRL) ...................... 63  
+4.1.3 Evaluation Metrics ............................................... 63  
+4.2 Results ............................................................ 65  
+4.2.1 Match Pairing Validation ......................................... 66  
+4.2.2 Two-Stage Round-Robin Tournament ................................. 66  
+4.2.2.1 Game-Theoretic Round-Robin ..................................... 67  
+4.2.2.2 Binary Bandit Round-Robin ...................................... 69  
+4.2.2.3 Foundational RL Round-Robin .................................... 72  
+4.2.2.4 Final Round-Robin .............................................. 74  
+4.3 Discussion ......................................................... 77  
 
-Chapter Five: Representational Equivalence ............................. 81
+Chapter Five: Representational Equivalence ............................. 81  
 
-5.1 Asserting Formal Equivalence ....................................... 84
-5.2 Methodology ........................................................ 86
-5.2.1 Evaluation Metrics ............................................... 88
-5.3 Results ............................................................ 88
-5.3.1 Normality......................................................... 88
-5.3.2 Peak Cooperative Outcome ......................................... 89
-5.3.3 Behavioural Profile Visualisation ................................ 89
-5.3.4 Experiment Group One.............................................. 90
-5.3.5 Experiment Group Two ............................................. 95
-5.3.6 Experiment Group Three ........................................... 97
-5.3.7 Experiment Group Four ............................................ 98
-5.4 Discussion ......................................................... 100
-5.4.1 Principal Finding ................................................ 100
-5.4.2 Distribution Shift ............................................... 101
-5.4.3 Expectations of Stability of Behaviour ........................... 102
-5.4.4 Sources of Stochasticity ......................................... 103
-5.4.5 Validity of the Inequalities ..................................... 103
-5.4.6 Impact on Thesis ................................................. 104
-5.5 Summary ............................................................ 105
+5.1 Asserting Formal Equivalence ....................................... 84  
+5.2 Methodology ........................................................ 86  
+5.2.1 Evaluation Metrics ............................................... 88  
+5.3 Results ............................................................ 88  
+5.3.1 Normality......................................................... 88  
+5.3.2 Peak Cooperative Outcome ......................................... 89  
+5.3.3 Behavioural Profile Visualisation ................................ 89  
+5.3.4 Experiment Group One.............................................. 90  
+5.3.5 Experiment Group Two ............................................. 95  
+5.3.6 Experiment Group Three ........................................... 97  
+5.3.7 Experiment Group Four ............................................ 98  
+5.4 Discussion ......................................................... 100  
+5.4.1 Principal Finding ................................................ 100  
+5.4.2 Distribution Shift ............................................... 101  
+5.4.3 Expectations of Stability of Behaviour ........................... 102  
+5.4.4 Sources of Stochasticity ......................................... 103  
+5.4.5 Validity of the Inequalities ..................................... 103  
+5.4.6 Impact on Thesis ................................................. 104  
+5.5 Summary ............................................................ 105  
 
-Chapter Six: Game Model Recognition .................................... 106
+Chapter Six: Game Model Recognition .................................... 106  
 
-6.1 Methodology & Scope ................................................ 108
-6.2 Game Model Recognition ............................................. 110
-6.2.1 Direct Mapping by Reward ......................................... 110
-6.2.2 Preference Mapping by Reward and Behaviour ....................... 112
-6.3 Comparing the Methods .............................................. 114
-6.3.1 Direct Mapping ................................................... 114
-6.3.2 Preference Mapping ............................................... 114
-6.3.3 Three Dilemmas and a Coordination Game ........................... 119
-6.4 Discussion ......................................................... 120
+6.1 Methodology & Scope ................................................ 108  
+6.2 Game Model Recognition ............................................. 110  
+6.2.1 Direct Mapping by Reward ......................................... 110  
+6.2.2 Preference Mapping by Reward and Behaviour ....................... 112  
+6.3 Comparing the Methods .............................................. 114  
+6.3.1 Direct Mapping ................................................... 114  
+6.3.2 Preference Mapping ............................................... 114  
+6.3.3 Three Dilemmas and a Coordination Game ........................... 119  
+6.4 Discussion ......................................................... 120  
 
-Chapter Seven: In Conclusion ........................................... 125
+Chapter Seven: In Conclusion ........................................... 125  
 
-7.1 Empirical and Conceptual Findings .................................. 125
-7.2 Contribution........................................................ 129
-7.3 Future Work ........................................................ 130
+7.1 Empirical and Conceptual Findings .................................. 125  
+7.2 Contribution........................................................ 129  
+7.3 Future Work ........................................................ 130  
 
-References ............................................................. 133
+References ............................................................. 133  
 
-Appendix A: Agent Model Overview ....................................... 154
+Appendix A: Agent Model Overview ....................................... 154  
 
-A.1 Initial Hyperparameter Values ...................................... 156
-A.2 Sources of Variance ................................................ 156
-A.3 Memory Depth ....................................................... 157
-A.4 Energy Use ......................................................... 157
-A.4.1 Energy Use Formula ............................................... 157
-A.4.2 Energy Use Experiment Series One ................................. 157
-A.4.3 Energy Use Experiment Series Two ................................. 158
-A.4.4 Energy Use Experiment Series Three ............................... 159
-A.4.5 Energy Use Total.................................................. 159
+A.1 Initial Hyperparameter Values ...................................... 156  
+A.2 Sources of Variance ................................................ 156  
+A.3 Memory Depth ....................................................... 157  
+A.4 Energy Use ......................................................... 157  
+A.4.1 Energy Use Formula ............................................... 157  
+A.4.2 Energy Use Experiment Series One ................................. 157  
+A.4.3 Energy Use Experiment Series Two ................................. 158  
+A.4.4 Energy Use Experiment Series Three ............................... 159  
+A.4.5 Energy Use Total.................................................. 159  
 
-Appendix B: Supplementary Material ..................................... 160
+Appendix B: Supplementary Material ..................................... 160  
 
-B.1 rRGS Graph Adjacency List .......................................... 160
-B.2 Experiment Series One .............................................. 163
-B.2.1 Experiment IDs & Analysis Datasheets ............................. 163
-B.2.2 Supplementary Data ............................................... 163
-B.2.3 Tournament Framework Validation .................................. 174
-B.3 Experiment Series Two .............................................. 176
-B.3.1 Experiment IDs & Analysis Datasheets ............................. 176
-B.3.2 Normality Test Data .............................................. 177
-B.3.3 Wilcoxon Signed Rank Test ........................................ 184
-B.3.4 Behavioural Profile Surface Maps ................................. 191
-B.4 Experiment Series Three ............................................ 220
-B.4.1 Experiment IDs & Analysis Datasheets ............................. 220
-B.4.2 Supplementary Data ............................................... 221
-B.5 Code & Data Availability ........................................... 239
+B.1 rRGS Graph Adjacency List .......................................... 160  
+B.2 Experiment Series One .............................................. 163  
+B.2.1 Experiment IDs & Analysis Datasheets ............................. 163  
+B.2.2 Supplementary Data ............................................... 163  
+B.2.3 Tournament Framework Validation .................................. 174  
+B.3 Experiment Series Two .............................................. 176  
+B.3.1 Experiment IDs & Analysis Datasheets ............................. 176  
+B.3.2 Normality Test Data .............................................. 177  
+B.3.3 Wilcoxon Signed Rank Test ........................................ 184  
+B.3.4 Behavioural Profile Surface Maps ................................. 191  
+B.4 Experiment Series Three ............................................ 220  
+B.4.1 Experiment IDs & Analysis Datasheets ............................. 220  
+B.4.2 Supplementary Data ............................................... 221  
+B.5 Code & Data Availability ........................................... 239  
