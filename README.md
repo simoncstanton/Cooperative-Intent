@@ -20,6 +20,7 @@ These experiments are conducted in the context of concepts of cooperation, as ha
 
 ## Table of Contents
 
+```
 Declaration of Originality										ii  
 Statement of Authority of Access								ii  
 Publications Related to this Research .................................. ii  
@@ -169,3 +170,4 @@ B.4 Experiment Series Three ............................................ 220
 B.4.1 Experiment IDs & Analysis Datasheets ............................. 220  
 B.4.2 Supplementary Data ............................................... 221  
 B.5 Code & Data Availability ........................................... 239  
+```
