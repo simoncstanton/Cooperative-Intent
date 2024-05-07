@@ -3,7 +3,7 @@
 
 [thesis pdf save-as/](Cooperative-Intent_Thesis_Stanton_2023.pdf)  
 Submitted 14th December 2023.  
-Awarded 20th March 2024.  
+Conferred 20th March 2024.  
 CC-BY.  
 
 
