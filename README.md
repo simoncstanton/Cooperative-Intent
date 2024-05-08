@@ -171,3 +171,10 @@ B.4.1 Experiment IDs & Analysis Datasheets ............................. 220
 B.4.2 Supplementary Data ............................................... 221  
 B.5 Code & Data Availability ........................................... 239  
 ```
+
+## ERRATA
+
+1. _8 May 2024_  
+	p54 I cannot count, obviously:  
+	- where six game models will have six edges  
+	+ where six game models will have four edges  
