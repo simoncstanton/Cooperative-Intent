@@ -176,5 +176,5 @@ B.5 Code & Data Availability ........................................... 239
 
 1. _8 May 2024_  
 	p54 I cannot count, obviously:  
-	- where six game models will have six edges  
-	+ where six game models will have four edges  
+	\- where six game models will have six edges  
+	\+ where six game models will have four edges  
