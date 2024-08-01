@@ -6,6 +6,14 @@ Submitted 14th December 2023.
 Conferred 20th March 2024.  
 CC-BY.  
 
+@article{Stanton2024,
+author = "Simon Stanton",
+title = "{Cooperative intent: an exploration of computational learning in a discrete preference space}",
+year = "2024",
+month = "3",
+url = "https://figshare.utas.edu.au/articles/thesis/Cooperative_intent_an_exploration_of_computational_learning_in_a_discrete_preference_space/26122150",
+doi = "10.25959/26122150.v1"
+}
 
 ## Abstract
 
@@ -177,4 +185,8 @@ B.5 Code & Data Availability ........................................... 239
 1. _8 May 2024_  
 	p54 I cannot count, obviously:  
 	\- where six game models will have six edges  
-	\+ where four game models will have six edges  
+	\+ where four game models will have six edges
+2. _1 August 2024_
+	pviii missing word
+	\- 4.14: Correlation of TR (reward) and MCR (mutual cooperation rate) ......................................... 77
+	\+ 4.14: Correlation of TR (total reward) and MCR (mutual cooperation rate) ......................................... 77
