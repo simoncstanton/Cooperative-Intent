@@ -6,15 +6,15 @@ Submitted 14th December 2023.
 Conferred 20th March 2024.  
 CC-BY.  
 
-@article{Stanton2024,
-author = "Simon Stanton",
-title = "{Cooperative intent: an exploration of computational learning in a discrete preference space}",
-year = "2024",
-month = "3",
-url = "https://figshare.utas.edu.au/articles/thesis/Cooperative_intent_an_exploration_of_computational_learning_in_a_discrete_preference_space/26122150",
-doi = "10.25959/26122150.v1"
-}
-
+@article{Stanton2024,  
+author = "Simon Stanton",  
+title = "{Cooperative intent: an exploration of computational learning in a discrete preference space}",  
+year = "2024",  
+month = "3",  
+url = "https://figshare.utas.edu.au/articles/thesis/Cooperative_intent_an_exploration_of_computational_learning_in_a_discrete_preference_space/26122150",  
+doi = "10.25959/26122150.v1"  
+}  
+  
 ## Abstract
 
 This thesis is an exploration of cooperation, game theory, and machine learning. The aim is to develop a method for profiling cooperative intent as found in the behaviour of learning algorithms over highly constrained games of cooperation; in order to step towards the future use of cooperation-as-policy in the reinforcement learning domain, and contribute to the theory of grounding emergent software systems.
@@ -186,7 +186,7 @@ B.5 Code & Data Availability ........................................... 239
 	p54 I cannot count, obviously:  
 	\- where six game models will have six edges  
 	\+ where four game models will have six edges
-2. _1 August 2024_
-	pviii missing word
-	\- 4.14: Correlation of TR (reward) and MCR (mutual cooperation rate) ......................................... 77
-	\+ 4.14: Correlation of TR (total reward) and MCR (mutual cooperation rate) ......................................... 77
+2. _1 August 2024_  
+	pviii missing word  
+	\- 4.14: Correlation of TR (reward) and MCR (mutual cooperation rate) ......................................... 77  
+	\+ 4.14: Correlation of TR (total reward) and MCR (mutual cooperation rate) ......................................... 77  
