@@ -181,12 +181,18 @@ B.5 Code & Data Availability ........................................... 239
 ```
 
 ## ERRATA
-
-1. _8 May 2024_  
-	p54 I cannot count, obviously:  
-	\- where six game models will have six edges  
-	\+ where four game models will have six edges
-2. _1 August 2024_  
-	pviii missing word  
-	\- 4.14: Correlation of TR (reward) and MCR (mutual cooperation rate) ......................................... 77  
-	\+ 4.14: Correlation of TR (total reward) and MCR (mutual cooperation rate) ......................................... 77  
+  
+1. p54 I cannot count, obviously. 
+ 8 May 2024  
+ \- where six game models will have six edges  
+ \+ where four game models will have six edges  
+  
+2. pviii missing word   
+ 1 August 2024  
+ \- 4.14: Correlation of TR (reward) and MCR (mutual cooperation rate) ......................................... 77  
+ \+ 4.14: Correlation of TR (total reward) and MCR (mutual cooperation rate) ......................................... 77  
+  
+3. p1 incorrect tense  
+ 6 August 2024
+ \- AI safely; indeed, this question is now becoming an issue with currency rather than remaining solely as a theoretical, and distant, possibility.  
+ \+ AI safely; indeed, this question has now become an issue with currency, no longer remaining solely a theoretical, and distant, possibility.    
