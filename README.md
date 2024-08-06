@@ -182,7 +182,7 @@ B.5 Code & Data Availability ........................................... 239
 
 ## ERRATA
   
-1. p54 I cannot count, obviously. 
+1. p54 I cannot count, obviously.  
  8 May 2024  
  \- where six game models will have six edges  
  \+ where four game models will have six edges  
@@ -193,6 +193,6 @@ B.5 Code & Data Availability ........................................... 239
  \+ 4.14: Correlation of TR (total reward) and MCR (mutual cooperation rate) ......................................... 77  
   
 3. p1 incorrect tense  
- 6 August 2024
+ 6 August 2024  
  \- AI safely; indeed, this question is now becoming an issue with currency rather than remaining solely as a theoretical, and distant, possibility.  
  \+ AI safely; indeed, this question has now become an issue with currency, no longer remaining solely a theoretical, and distant, possibility.    
