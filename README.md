@@ -180,7 +180,7 @@ B.4.2 Supplementary Data ............................................... 221
 B.5 Code & Data Availability ........................................... 239  
 ```
 
-## ERRATA
+## Errata
   
 1. p54 I cannot count, obviously.  
  8 May 2024  
