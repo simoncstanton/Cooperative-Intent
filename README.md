@@ -6,14 +6,16 @@ Submitted 14th December 2023.
 Conferred 20th March 2024.  
 CC-BY.  
 
-@article{Stanton2024,  
-author = "Simon Stanton",  
-title = "{Cooperative intent: an exploration of computational learning in a discrete preference space}",  
-year = "2024",  
-month = "3",  
-url = "https://figshare.utas.edu.au/articles/thesis/Cooperative_intent_an_exploration_of_computational_learning_in_a_discrete_preference_space/26122150",  
-doi = "10.25959/26122150.v1"  
-}  
+@phdthesis{Stanton2024,
+  title        = {Cooperative Intent: an exploration of computational learning in a discrete preference space},
+  author       = {Simon C Stanton},
+  year         = 2024,
+  month        = {March},
+  address      = {Hobart, Tasmania},
+  note         = {Available at \url{https://figshare.utas.edu.au/articles/thesis/Cooperative_intent_an_exploration_of_computational_learning_in_a_discrete_preference_space/26122150/1}},
+  school       = {University of Tasmania},
+  type         = {PhD thesis}
+} 
   
 ## Abstract
 
