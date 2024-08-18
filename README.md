@@ -6,7 +6,7 @@ Submitted 14th December 2023.
 Conferred 20th March 2024.  
 CC-BY.  
 
-DOI: \utl{https://doi.org/10.25959/26122150.v1}
+DOI: \url{https://doi.org/10.25959/26122150.v1}
 
 @phdthesis{Stanton2024,  
   title        = {Cooperative Intent: an exploration of computational learning in a discrete preference space},  
