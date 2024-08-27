@@ -200,7 +200,17 @@ B.5 Code & Data Availability ........................................... 239
  6 August 2024  
  \- AI _safely_; indeed, this question is now becoming an issue with currency rather than remaining solely as a theoretical, and distant, possibility.  
  \+ AI _safely_; indeed, this question has now become an issue with currency, no longer remaining solely a theoretical, and distant, possibility.  
- 
+  
+4. p2 simplify the sentence  
+ 27 August 2024  
+ \- To achieve this outcome, this research attempts to weave the threads of cooperation, computational game theory, and computational learning together.  
+ \+ To achieve this outcome this research attempts to weave the threads of cooperation, computational game theory, and computational learning.  
+  
+5. p2 rephrase  
+ \- Measuring the value of AI in our lives is difficult, and likely to become an ever more intractable undertaking given not just the immense complexity of the interactions of these systems, on society, but also the  
+ \+ Measuring the value of AI in our lives is difficult, and likely to become an ever more intractable undertaking given not just the immense complexity of the interactions of these systems with human society, but also, the  
+  
+  
 ## GPTZero Assessment of Abstract
 
 [<img src="https://raw.githubusercontent.com/simoncstanton/Cooperative-Intent/3f072150fedf417d59fdb94cbd8e21e72da82069/gptzero-abstract-assessment-lo.jpg">](https://github.com/simoncstanton/Cooperative-Intent/blob/3f072150fedf417d59fdb94cbd8e21e72da82069/gptzero-abstract-assessment.jpg?raw=true)
