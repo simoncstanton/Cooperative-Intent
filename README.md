@@ -213,5 +213,7 @@ B.5 Code & Data Availability ........................................... 239
   
   
 ## GPTZero Assessment of Abstract
-
+  
+I present the following artifact from GPTZero as a homage to the search for the inner replicant who lives within us all ;)  
+  
 [<img src="https://raw.githubusercontent.com/simoncstanton/Cooperative-Intent/3f072150fedf417d59fdb94cbd8e21e72da82069/gptzero-abstract-assessment-lo.jpg">](https://github.com/simoncstanton/Cooperative-Intent/blob/3f072150fedf417d59fdb94cbd8e21e72da82069/gptzero-abstract-assessment.jpg?raw=true)
