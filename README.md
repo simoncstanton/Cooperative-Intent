@@ -206,7 +206,8 @@ B.5 Code & Data Availability ........................................... 239
  \- To achieve this outcome, this research attempts to weave the threads of cooperation, computational game theory, and computational learning together.  
  \+ To achieve this outcome this research attempts to weave the threads of cooperation, computational game theory, and computational learning.  
   
-5. p2 rephrase  
+5. p2 simplify the sentence  
+27 August 2024  
  \- Measuring the value of AI in our lives is difficult, and likely to become an ever more intractable undertaking given not just the immense complexity of the interactions of these systems, on society, but also the  
  \+ Measuring the value of AI in our lives is difficult, and likely to become an ever more intractable undertaking given not just the immense complexity of the interactions of these systems with human society, but also, the  
   
