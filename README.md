@@ -211,10 +211,16 @@ B.5 Code & Data Availability ........................................... 239
  \- Measuring the value of AI in our lives is difficult, and likely to become an ever more intractable undertaking given not just the immense complexity of the interactions of these systems, on society, but also the  
  \+ Measuring the value of AI in our lives is difficult, and likely to become an ever more intractable undertaking given not just the immense complexity of the interactions of these systems with human society, but also, the  
   
+6. p2   
+  27 August 2024  
+  \- 
+  \+ 
+  
+  
   
 ## GPTZero Assessment of Abstract
   
-I present the following artefact from GPTZero as homage to the search for that inner replicant,  
+I present the following from GPTZero as homage to the search for that inner replicant,  
 who lives within us all  ¯\\\_(ツ)\_/¯ 
   
 [<img src="https://raw.githubusercontent.com/simoncstanton/Cooperative-Intent/3f072150fedf417d59fdb94cbd8e21e72da82069/gptzero-abstract-assessment-lo.jpg">](https://github.com/simoncstanton/Cooperative-Intent/blob/3f072150fedf417d59fdb94cbd8e21e72da82069/gptzero-abstract-assessment.jpg?raw=true)
