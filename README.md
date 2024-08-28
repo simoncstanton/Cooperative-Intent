@@ -211,8 +211,8 @@ B.5 Code & Data Availability ........................................... 239
  \- Measuring the value of AI in our lives is difficult, and likely to become an ever more intractable undertaking given not just the immense complexity of the interactions of these systems, on society, but also the  
  \+ Measuring the value of AI in our lives is difficult, and likely to become an ever more intractable undertaking given not just the immense complexity of the interactions of these systems with human society, but also, the  
   
-6. p2   
-  27 August 2024  
+6. pX   
+  DD M 2024  
   \- 
   \+ 
   
