@@ -6,8 +6,7 @@ Submitted 14th December 2023.
 Conferred 20th March 2024.  
 CC-BY.  
 
-DOI: [doi.org/10.25959/26122150.v1](https://doi.org/10.25959/26122150.v1)
-\url{https://doi.org/10.25959/26122150.v1}
+DOI: [doi.org/10.25959/26122150.v1](https://doi.org/10.25959/26122150.v1)  
 
 @phdthesis{Stanton2024,  
   title        = {Cooperative Intent: an exploration of computational learning in a discrete preference space},  
@@ -15,7 +14,7 @@ DOI: [doi.org/10.25959/26122150.v1](https://doi.org/10.25959/26122150.v1)
   year         = 2024,  
   month        = {March},  
   address      = {Hobart, Tasmania},  
-  note         = {Available at \url{https://figshare.utas.edu.au/articles/thesis/Cooperative_intent_an_exploration_of_computational_learning_in_a_discrete_preference_space/26122150/1}},  
+  note         = {Available at https://figshare.utas.edu.au/articles/thesis/Cooperative_intent_an_exploration_of_computational_learning_in_a_discrete_preference_space/26122150/1},    
   school       = {University of Tasmania},  
   type         = {PhD thesis}  
 }  
