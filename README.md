@@ -211,10 +211,10 @@ B.5 Code & Data Availability ........................................... 239
  \- Measuring the value of AI in our lives is difficult, and likely to become an ever more intractable undertaking given not just the immense complexity of the interactions of these systems, on society, but also the  
  \+ Measuring the value of AI in our lives is difficult, and likely to become an ever more intractable undertaking given not just the immense complexity of the interactions of these systems with human society, but also, the  
   
-6. pX   
-  DD M 2024  
-  \- 
-  \+ 
+6. p125 too many dots, too many stops, in epigraph footnote chapter seven  
+  10 September 2024  
+  \- Ursula. K. Le Guin, Dragonfly; in Tales of Earthsea in The Books of Earthsea; The Complete Illustrated Edition. First Saga Edition. New York, Saga Press (2018).  
+  \+ Ursula K. Le Guin, Dragonfly; in Tales of Earthsea in The Books of Earthsea; The Complete Illustrated Edition. First Saga Edition. New York, Saga Press (2018).  
   
   
   
